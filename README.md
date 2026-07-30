@@ -1,2 +1,7 @@
-# Cloud-Computing-101
-Repository for CCM101 activities, assignments, and lab works submission.
+# Student Profile
+
+**Name: ** Richard Ayson Hiquiana
+** Course & Section:** BSIT - 4F
+
+## About This Repository
+This repository contains my submissions and coursework for Cloud Computing 101.
